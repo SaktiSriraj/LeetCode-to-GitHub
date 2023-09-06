@@ -8,7 +8,10 @@ Problem 121. Best Time To Buy And Sell Stocks [<a href="https://leetcode.com/pro
 
 <h3>Difficulty: Medium</h3>
 Problem 2. Add Two Numbers [<a href="https://leetcode.com/problems/add-two-numbers/">Link</a>] </br>
-Problem 3. Longest Substring Without Repeating Characters [<a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Link</a>]
+Problem 3. Longest Substring Without Repeating Characters [<a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Link</a>] </br>
+Problem 33. Search In Rotated Array [<a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Link</a>] </br>
+
 
 <h3>Difficulty: Hard</h3>
 
+https://leetcode.com/problems/search-in-rotated-sorted-array/
