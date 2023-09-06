@@ -13,5 +13,3 @@ Problem 33. Search In Rotated Array [<a href="https://leetcode.com/problems/sear
 
 
 <h3>Difficulty: Hard</h3>
-
-https://leetcode.com/problems/search-in-rotated-sorted-array/
