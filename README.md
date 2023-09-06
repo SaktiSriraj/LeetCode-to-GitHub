@@ -4,6 +4,8 @@ LeetCode Interview Questions Solutions
 
 <h3>Difficulty: Easy</h3>
 Problem 1. Two Sum [<a href="https://leetcode.com/problems/two-sum/">Link</a>]</br>
+Problem 20. Valid Parentheses [<a href="https://leetcode.com/problems/valid-parentheses/">Link</a>]</br>
+
 Problem 121. Best Time To Buy And Sell Stocks [<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Link</a>]</br>
 
 <h3>Difficulty: Medium</h3>
@@ -13,3 +15,4 @@ Problem 33. Search In Rotated Array [<a href="https://leetcode.com/problems/sear
 
 
 <h3>Difficulty: Hard</h3>
+
