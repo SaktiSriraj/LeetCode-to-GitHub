@@ -14,8 +14,10 @@ Problem 217. Contains Duplicates [<a href="https://leetcode.com/problems/contain
 <h3>Difficulty: Medium</h3>
 Problem 2. Add Two Numbers [<a href="https://leetcode.com/problems/add-two-numbers/">Link</a>] </br>
 Problem 3. Longest Substring Without Repeating Characters [<a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Link</a>] </br>
+Problem 15. Three Sum [<a href="https://leetcode.com/problems/3sum/">Link</a>] </br>
 Problem 33. Search In Rotated Array [<a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Link</a>] </br>
 Problem 74. Search In A 2D Array [<a href="https://leetcode.com/problems/search-a-2d-matrix/">Link</a>] </br>
+
 
 
 <h3>Difficulty: Hard</h3>
