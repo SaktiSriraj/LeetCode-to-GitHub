@@ -6,6 +6,7 @@ LeetCode Interview Questions Solutions
 Problem 1. Two Sum [<a href="https://leetcode.com/problems/two-sum/">Link</a>]</br>
 Problem 9. Palindrome Number [<a href="https://leetcode.com/problems/palindrome-number/">Link</a>]</br>
 Problem 20. Valid Parentheses [<a href="https://leetcode.com/problems/valid-parentheses/">Link</a>]</br>
+Problem 26. Removing Duplicates From Sorted Array [<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Link</a>]</br>
 Problem 88. Merge Sorted Array [<a href="https://leetcode.com/problems/merge-sorted-array/">Link</a>]</br>
 Problem 141. Linked List Cycle [<a href="https://leetcode.com/problems/linked-list-cycle/">Link</a>]</br>
 Problem 121. Best Time To Buy And Sell Stocks [<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Link</a>]</br>
