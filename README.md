@@ -11,6 +11,8 @@ Problem 88. Merge Sorted Array [<a href="https://leetcode.com/problems/merge-sor
 Problem 141. Linked List Cycle [<a href="https://leetcode.com/problems/linked-list-cycle/">Link</a>]</br>
 Problem 121. Best Time To Buy And Sell Stocks [<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Link</a>]</br>
 Problem 217. Contains Duplicates [<a href="https://leetcode.com/problems/contains-duplicate/">Link</a>]</br>
+Problem 2331. Evaluate Boolean Binary Tree [<a href="https://leetcode.com/problems/evaluate-boolean-binary-tree/
+">Link</a>]</br>
 
 
 <h3>Difficulty: Medium</h3>
